@@ -3,6 +3,10 @@
 ## Created while taking CPS 310 at Toronto Metropolitan University in Winter 2023
 
 ### Uses the concept of two pass assembly.
+
+## To Run:
+    python3 arc.py {NAME_OF_FILE}
+
 ### The following images provide more info.
 ![image](https://user-images.githubusercontent.com/72413722/224852297-90e1d310-fa16-47c3-b171-3557d18b1881.png)
 >
