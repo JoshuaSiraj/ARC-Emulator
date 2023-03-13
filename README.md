@@ -4,7 +4,7 @@
 
 ### Uses the concept of two pass assembly.
 
-## To Run:
+#### To Run:
     python3 arc.py {NAME_OF_FILE}
 
 ### The following images provide more info.
